@@ -37,7 +37,7 @@ def calculate_taxes_due(money, tax_rate):
     total_due = money + (money * tax_rate)
     return round(total_due,2)
 
-## Computes the total bill with taxes included.
+## Convert from Fahrenheit to Celsius temperature
 #  @param fahrenheit_temp the temperate in Fahrenheit
 #  @return the temperate in Celsius
 #
